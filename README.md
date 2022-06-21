@@ -1,1 +1,1 @@
-# mineradorscript
+# gas
